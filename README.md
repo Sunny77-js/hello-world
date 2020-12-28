@@ -1,6 +1,6 @@
 # hello-world
 
-Hi Elaine!
+Hi Sunny!
 
 I Hope this webiste can help me develop js.
 
