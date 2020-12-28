@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Elaine!
+
+I Hope this webiste can help me develop js.
+
